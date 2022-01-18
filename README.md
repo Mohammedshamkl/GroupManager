@@ -3,7 +3,7 @@
 
 # GroupManager
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2Fgroupmanager)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Mohammedshamkl/GroupManager)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
@@ -13,13 +13,13 @@ Alternatively, [find me on telegram](https://t.me/xditya)! (Keep all support que
 
 You can also join our support group [here!](https://t.me/tg_groupmanagerbot)
 
-# Group
+# Group hi
 [Join Discuss Group](https://t.me/giveaways_24hrs)
 
-# Report error
+# Report error no
 Report your problem along with your name to [this person](https://t.me/xditya)
 
-# Credits
+# Credits me
 This repo is just a custom fork of [HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya)
 
 Thanks to the [real developer](https://t.me/RealAkito)!
